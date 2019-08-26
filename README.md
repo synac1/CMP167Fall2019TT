@@ -3,7 +3,7 @@
 
 ## Content
 - **Syllabus**
-[Syllabus](https://github.com/synac1/CMP1672019FallMW/blob/master/CMP167_Core_SyllabusWed.pdf)
+[Syllabus](https://github.com/synac1/CMP167Fall2019TT/blob/master/CMP167_Core_SyllabusThuT.pdf)
 - **Required e-Book**
 [Zybook](https://learn.zybooks.com/zybook/CUNYCMP167Fall2019)
 - **Homework**
