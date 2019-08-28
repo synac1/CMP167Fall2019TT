@@ -11,4 +11,4 @@
 - **Participation Activity and Challenge Activity**
 [P&C](https://drive.google.com/drive/folders/1Dr0IiesvtYE0ljlPEaNy94IiTWtokk6K?usp=sharing)
 - **Timeline**
-[Timeline and Attendance](https://docs.google.com/spreadsheets/d/1-Jaca9R6dn0Vfk24m4AJXDMSSirSWrjOX2R7xy1c-cA/edit?usp=sharing)
+[Timeline and Attendance](https://docs.google.com/spreadsheets/d/1GnPl1RiBfWW08uB2d0ZlYXa9eUxXyvECwi1HoeVyh8U/edit?usp=sharing)
