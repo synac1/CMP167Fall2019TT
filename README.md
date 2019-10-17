@@ -14,3 +14,9 @@
 [Timeline ](https://docs.google.com/spreadsheets/d/1GnPl1RiBfWW08uB2d0ZlYXa9eUxXyvECwi1HoeVyh8U/edit?usp=sharing)
 
 [Complete Timeline](https://docs.google.com/spreadsheets/d/1WDhcmpQjTHTa-52IddyiODz6oqYMmQhtPgBwUoB-xi0/edit?usp=sharing)
+
+- **Take Home Test**
+[Take home Test](https://github.com/synac1/CMP167Fall2019TT/blob/master/THT.pdf)
+
+- **Review for Midterm**
+[Old Exams]
