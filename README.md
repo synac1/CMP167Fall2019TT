@@ -19,4 +19,4 @@
 [Take home Test](https://github.com/synac1/CMP167Fall2019TT/blob/master/THT.pdf)
 
 - **Review for Midterm**
-[Old Exams]
+[Old Exams](https://github.com/synac1/CMP167Fall2019TT/blob/master/f16OldExam.pdf)
