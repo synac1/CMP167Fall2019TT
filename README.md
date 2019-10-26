@@ -20,3 +20,6 @@
 
 - **Review for Midterm**
 [Old Exams](https://github.com/synac1/CMP167Fall2019TT/blob/master/f16OldExam.pdf)
+
+- **Solution for review**
+[Solution to old exam](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/f16/exams-current/Exam1/exam1_f16_solutions.pdf)
