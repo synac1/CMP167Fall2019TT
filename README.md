@@ -24,5 +24,5 @@
 - **Solution for review**
 [Solution to old exam](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/f16/exams-current/Exam1/exam1_f16_solutions.pdf)
 
-- **Final Exam Review ** 
+- **Final Exam Review** 
 [Old Final Exam](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/s16/exams-current/Final/final_s16.pdf)
